@@ -4,7 +4,7 @@ Crowdedness prediction in public transport under Covid-19 using Smartcard demand
 # Collaborators:
 Aristodimos Aristodimou: aristos_fox@hotmail.com
 
-Nathaniel Hartwig:
+Nathaniel Hartwig: hartwig.n@northeastern.edu
 
 Nikolaos Rafail Zampelis: nikolaszab95@gmail.com
 
